@@ -15,7 +15,7 @@ background still shapes how I think about embedded systems — but my focus
 now is building IoT projects, not securing them.
 
 **Find me elsewhere:**
-- 💼 LinkedIn: [link]
+- 💼 LinkedIn: [https://x.com/yazdan_iot]
 - 🐦 X/Twitter: [link]
 
 Always happy to talk ESP32, embedded systems, or anything IoT — feel free to
