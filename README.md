@@ -1,6 +1,6 @@
 ### Hey, I'm Yazdan 👋
 
-EE student (currently 3rd semester) building hands-on projects with **ESP32**,
+EE student building hands-on projects with **ESP32**,
 **FreeRTOS**, and embedded C++ — moving from a security background into
 IoT/embedded development as my main focus.
 
