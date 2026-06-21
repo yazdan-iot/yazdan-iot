@@ -15,7 +15,6 @@ background still shapes how I think about embedded systems — but my focus
 now is building IoT projects, not securing them.
 
 **Find me elsewhere:**
-- 🎥 YouTube: [HexGateSec](#) — currently transitioning content toward pure IoT/embedded
 - 💼 LinkedIn: [link]
 - 🐦 X/Twitter: [link]
 
